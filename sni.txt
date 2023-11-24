@@ -1,3 +1,4 @@
+zara.com
 samsung.com
 github.com
 github.io
